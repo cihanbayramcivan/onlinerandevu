@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6q87BAoSvE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cihan\\Desktop\\OnlineRandevuSistemi\\OrderManagementAPI\\OrderManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
